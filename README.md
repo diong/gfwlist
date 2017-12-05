@@ -13,7 +13,7 @@
 :hammer:***For source code stemmed from premier GFWList which is now being used for maintenance, please visit [apollyon project](https://github.com/gfwlist/apollyon).***
 ******
 
-# gfwlist
+# gfwlist -> need base64 decoded
 ## The OFFICIAL gfwlist here!
 
 Everyone knows that netizens in Mainland China are under oppression. There is a government-run firewall that blocks and interferes with websites containing sensitive or unwanted information. Meanwhile there’s an extensive network of self-censors in all domestic Internet companies who delete contents which might incur the wrath of the people behind the rigorous censorship regime, while there are also lots of websites refuse to crouch. Hence they are often blocked.
